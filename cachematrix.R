@@ -1,4 +1,4 @@
-## The first function works to make a matrix that cache's the inverse of cache
+## The first function works to make a matrix that cache's the inverse of the matrix
 
 ## These functions work to create a matrix environment that when ran, will calculate
 ## the inverse and cache the input.
